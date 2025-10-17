@@ -38,7 +38,7 @@ If the daily total is ~4.6 million users, and we assume for example:
     - We assume that during these periods, say, 35-40% of the total number of trips per day occur.
 Then it could be estimated:
 
-$Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84M users $
+$Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84\space M\space users $
 
 8. Average wait estimate
     - During peak hours: if frequency = 2 minutes, average wait time could be ~1 minute (assuming random arrival).
@@ -53,3 +53,8 @@ $Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84M users $
 ## 🔍Sources
 1. https://metrocdmx.com.mx/
 2. https://www.metro.cdmx.gob.mx/parque-vehicular
+3. https://datos.cdmx.gob.mx/dataset/afluencia-diaria-del-metro-cdmx
+4. https://catalog.data.gov/dataset/turnstile-usage-data-2021
+5. 
+
+## ⚙️Work in progress
