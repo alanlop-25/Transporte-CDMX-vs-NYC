@@ -44,12 +44,6 @@ $Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84\space M\space user
     - During peak hours: if frequency = 2 minutes, average wait time could be ~1 minute (assuming random arrival).
     - Off-peak: frequency 7 minutes, average wait time could be ~3.5 minutes.
 
-## 📁 Structure (in progress)
-- `data/`: CSV files  
-- `notebooks/`: Jupyter notebook files)  
-- `README.md` (Project's description)  
-- `output/`: exported graphs
-
 ## 👓Conclusions
 1. What percentage of daily flow occurs during peak hours, in each system?
 
@@ -67,7 +61,14 @@ $Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84\space M\space user
 
    These differences may be related to the structure and extent of the networks, urban density, and passenger flow distribution strategies in each city. From an operational standpoint, Mexico City may face greater challenges managing congestion at key stations, while NYC distributes the load across more stations.
 
-  
+
+## 📁 Structure (in progress)
+- `data/`: CSV files  
+- `notebooks/`: Jupyter notebook files)  
+- `README.md` (Project's description)  
+- `output/`: exported graphs
+
+
 ## 🔍 Sources
 1. https://metrocdmx.com.mx/
 2. https://www.metro.cdmx.gob.mx/parque-vehicular
