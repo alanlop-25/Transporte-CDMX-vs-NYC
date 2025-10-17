@@ -63,7 +63,6 @@ $Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84\space M\space user
 
 
 ## 📁 Structure (in progress)
-- `data/`: CSV files  
 - `notebooks/`: Jupyter notebook files)  
 - `README.md` (Project's description)  
 - `output/`: exported graphs
