@@ -48,7 +48,7 @@ $Peak\space hour\space travel\space =\space 4.6M * 0.4 = 1.84M users $
 - `data/`: CSV files  
 - `notebooks/`: Jupyter notebook files)  
 - `README.md` (Project's description)  
-- `output/`: gráficos exportados
+- `output/`: exported graphs
   
 ## 🔍Sources
 1. https://metrocdmx.com.mx/
